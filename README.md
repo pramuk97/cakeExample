@@ -1,0 +1,3 @@
+# Cake POC
+
+dotnet cake
